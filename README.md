@@ -85,6 +85,11 @@ from patient
 group by 1
 order by 2;
 ```
+### Dashboard
+
+![Power bi visualization dashborad](https://github.com/user-attachments/assets/d4f1bc94-d7a4-43e1-97c6-9bfcf88ed90f)
+
+
 
 ### Results/Findings
 
