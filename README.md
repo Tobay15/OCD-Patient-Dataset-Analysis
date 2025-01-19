@@ -7,6 +7,7 @@ This project involved analyzing OCD patient data using complex SQL queries to un
 ### Data Sources
 
 OCD Data: The primary dataset used for this analysis is the "Ocd_patient_dataset" file, containing detailed information about the ocd of every patient. 
+- <a href="https://github.com/Tobay15/OCD-Patient-Dataset-Analysis/blob/main/ocd_patient_dataset.csv">Dataset</a>
 
 ### Tools
 
